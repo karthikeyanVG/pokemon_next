@@ -11,7 +11,15 @@ yarn dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+#home page
 ![localhost_3000_](https://user-images.githubusercontent.com/74521532/229057131-f245d974-3528-4de0-8cf2-cb0bff07066e.png)
+
+#charater Page
+![localhost_3000_characterDetails](https://user-images.githubusercontent.com/74521532/229058337-6153440f-3c4f-4adb-8d1a-bf74aa253327.png)
+
+#charater details
+![localhost_3000_characterDetails (1)](https://user-images.githubusercontent.com/74521532/229058959-c76e3921-5ab7-4fdb-8bc4-c1f94fef753a.png)
+
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
