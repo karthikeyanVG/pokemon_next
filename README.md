@@ -9,8 +9,9 @@ npm run dev
 # or
 yarn dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+![localhost_3000_](https://user-images.githubusercontent.com/74521532/229057131-f245d974-3528-4de0-8cf2-cb0bff07066e.png)
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
